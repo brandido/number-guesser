@@ -1,0 +1,45 @@
+body {
+  font-family: 'Open Sans', Sans-serif;
+  text-align: center;
+}
+
+header {
+  font-weight: lighter;
+  background: #404041;
+  padding: 20px;
+  margin: 0;
+}
+
+#pink {
+  color: #929497;
+}
+
+/*input {
+  width: 300px;
+  padding: 5px;
+  margin: 10px;
+}*/
+
+/*#guess {
+  background-color: #929497
+  padding: 1px 50px;
+  border-radius: 20px;
+  color: #FFFFFF;
+}*/
+
+#show-number {
+  color: #EB008B;
+  font-size: 150px;
+  margin: -20px;
+  font-weight: 300;
+}
+
+button {
+  color:  #FFFFFF;
+  background-color: #929497;
+  
+}
+
+on:hover {
+  color:  #EB008B;
+}
